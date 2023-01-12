@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Memories App',
-    description: "Full stack MERN social media app. Features include uploading login and user accounts, creating and modifying your own post with image upload, liking other people's posts as well as leaving comments on posts. This app is also fully responsive so it works great on mobile!",
+    description: "This is a MERN stack social media app. Features include login and user accounts, creating and modifying your own posts with image upload, liking other people's posts, and leaving comments on posts. This app is also fully responsive so it works great on mobile!",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node', 'Material UI'],
     source: 'https://github.com/PraveenJSamuel/Memories-fe',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'The Gym Library',
-    description: "This is a frontend application that uses an exercise database and api to generate a visual library of exercises. It allows users to search by exercise as well as filter by muscle group. The detailed view page shows video examples (generated from querying a youtube API) as well as similar and related exercises",
+    description: "This is a frontend application that uses an exercise database and RapidAPI platform to generate a visual library of exercises. It allows users to search by exercise as well as filter by muscle group. The detailed view page shows video examples (generated from querying a youtube API) as well as similar and related exercises",
       image: '/images/3.png',
       tags: ['React', 'Material UI', 'JavaScript'],
     source: 'https://github.com/PraveenJSamuel/gymlibrary',

@@ -17,9 +17,6 @@ const Technologies = () =>  (
  <Section id='tech'>
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>
-      Describe what you've worked with
-    </SectionText>
     <List>
       <ListItem>
         <ListContainer>
